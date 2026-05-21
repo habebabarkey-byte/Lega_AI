@@ -565,11 +565,7 @@ with tab5:
     )
 """
 
-with open("/content/legal_ai_app.py", "w", encoding="utf-8") as f:
-    f.write(app_code)
 
-print("✅ legal_ai_app.py written successfully to /content/legal_ai_app.py")
-print("   Now run CELL 2 to launch the app.")
 
 
 
